@@ -1,2 +1,3 @@
 # hello-world
-my first reository
+my first repository
+I need to teach this class
